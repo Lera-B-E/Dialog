@@ -1,0 +1,6 @@
+slots:
+    Bad:
+        source: $Bad
+        type: Bad
+root:
+    $Bad

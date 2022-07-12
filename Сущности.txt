@@ -1,0 +1,62 @@
+entity Mood:
+    values:
+        mood_good:
+            хорошо
+            отлично
+            нормально
+        mood_nah:
+            средне
+            не очень
+            пойдёт
+        mood_bad:
+            плохо
+            ужасно
+            отвратительно
+        
+entity Bad:
+    values:
+        studies:
+            учеба
+            учёба
+        work:
+            работа
+        health:
+            здоровье
+            проблемы со здоровьем
+        no:
+            не хочу говорить
+        
+entity Place:
+    values:
+        school:
+            школа
+            шарага
+        university:
+            универ
+            университет
+
+entity Exams_School:
+    values:
+        Yes_Ex:
+            Да
+            Сдаю
+        No_Ex:
+            Нет
+            Не сдаю
+            Не
+        
+entity Exams:
+    values:
+        Yes_Adv:
+            Да
+            Хочу
+        No_Adv:
+            Нет
+            Не хочу
+
+entity Good_Fact:
+    values:
+        Yes_Fact:
+           Давай
+        No_Fact:
+            Не хочу

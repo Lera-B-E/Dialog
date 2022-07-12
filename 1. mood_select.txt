@@ -1,0 +1,6 @@
+slots:
+    Mood:
+        source: $Mood
+        type: Mood
+root:
+    $Mood
